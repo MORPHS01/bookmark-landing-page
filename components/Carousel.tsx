@@ -3,9 +3,9 @@ import Image from "next/image"
 import { useState} from "react"
 import Button from "@components/Button"
 import {featuresDetails, labels} from "@components/constants"
-import tab1 from "@images/illustration-features-tab-1.svg"
-import tab2 from "@images/illustration-features-tab-2.svg"
-import tab3 from "@images/illustration-features-tab-3.svg"
+// import tab1 from "@images/illustration-features-tab-1.svg"
+// import tab2 from "@images/illustration-features-tab-2.svg"
+// import tab3 from "@images/illustration-features-tab-3.svg"
 
 function Carousel() {
     const [documentIndex, setDocumentIndex] = useState(0)
