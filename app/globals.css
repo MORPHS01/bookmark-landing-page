@@ -21,6 +21,6 @@ body::-webkit-scrollbar{
 
 @layer utilities {
   .detailsText{
-    @apply font-thin text-grayishBlue
+    @apply font-thin text-slate-400
   }
 }
